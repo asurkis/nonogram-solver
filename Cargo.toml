@@ -1,0 +1,7 @@
+[package]
+name = "nonogram-solver"
+version = "0.1.0"
+authors = ["asurkis"]
+edition = "2018"
+
+[dependencies]
